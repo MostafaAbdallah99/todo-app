@@ -4,8 +4,8 @@ A todo project created in flutter using Firestore and Provider.
 
 ## Todo Features:
 
-* Home
-* Firestore
+* Task Screen
+* CRUD Operations
 * Provider (State Management)
 
 ### Libraries & Tools Used
