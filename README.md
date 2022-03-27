@@ -5,8 +5,6 @@ A todo project created in flutter using Firestore and Provider.
 ## Todo Features:
 
 * Home
-* Routing
-* Theme
 * Firestore
 * Provider (State Management)
 
@@ -51,7 +49,7 @@ Now, lets dive into the lib folder which has the main code for the application.
 
 ### Main
 
-This is the starting point of the application. All the application level configurations are defined in this file i.e, theme, routes, title, orientation etc.
+This is the starting point of the application. All the application level configurations are defined in this file.
 
 ```dart
 import 'package:firebase_core/firebase_core.dart';
