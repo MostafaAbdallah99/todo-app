@@ -43,7 +43,7 @@ Now, lets dive into the lib folder which has the main code for the application.
 1- components - All the application level constants are defined in this directory with-in their respective file.
 2- models - Contains the CRUD operations and task class.
 3- screens - Contains all the ui of the project.
-4- widgets — Contains the common widgets for your applications.
+4- widgets — Contains the common widgets for the applications.
 5- main.dart - This is the starting point of the application. All the application level configurations are defined in this file.
 ```
 
